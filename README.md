@@ -7,6 +7,7 @@
 A custom-built **Inference Engine** for Large Language Models (LLMs) written efficiently in C++. 
 Unlike Python wrappers, this project manages memory, sampling, and file I/O directly, featuring a built-in **RAG (Retrieval Augmented Generation)** system and **Agentic Tool Use**.
 
+Here's the demo video showing the proof of work for the project [DEMO VIDEO](https://github.com/hitesh-bhatnagar/Nano-RAG-CPP/blob/main/POW.mp4) 
 ---
 
 ## Features
