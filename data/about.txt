@@ -1,0 +1,21 @@
+HITESH BHATNAGAR
+
+SUMMARY
+Final-year ECE student at VIT with interdisciplinary expertise in Machine Learning, Embedded Systems, and Software Development.
+
+EXPERIENCE
+Research Intern | IIT Goa (Deep Learning & Audio Processing) | May 2025 – Jul 2025
+- Engineered a hybrid Deep Learning Active Noise Cancellation (ANC) model (FxEHCAF + SFANC).
+- Achieved significant performance gains: MSE = 2.9e-5, SNR = 27.10 dB.
+- Optimized model with adaptive learning rates and reduced latency using a lightweight CNN.
+
+KEY PROJECTS
+1. PDF Summarizer App (Flutter, OpenAI API): Built a cross-platform app reducing document reading time by 80%.
+2. Embedded RTOS Simulator (C, Linux): Architected a deterministic RTOS kernel with preemptive scheduling and IPC.
+3. Telco Customer Churn Prediction (Python, ML): Deployed an end-to-end ML pipeline with 80%+ accuracy on Streamlit.
+
+TOP SKILLS
+- Languages: Python, C/Embedded C, Java, Dart, SQL.
+- Frameworks: Flutter, PyTorch, TensorFlow, Scikit-learn.
+- Core Concepts: RTOS, DSA, OOP, Deep Learning, DSP.
+

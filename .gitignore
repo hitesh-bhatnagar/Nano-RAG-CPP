@@ -1,0 +1,17 @@
+build/
+cmake-build-debug/
+.cache/
+
+*.gguf
+models/
+mlruns/
+mlflow.db
+
+.venv/
+__pycache__/
+*.pyc
+
+.DS_Store
+.vscode/
+
+output/

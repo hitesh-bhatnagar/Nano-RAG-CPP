@@ -1,0 +1,9 @@
+*.gguf
+
+.venv/
+
+build/
+
+.git/
+
+.cache/
