@@ -77,3 +77,7 @@ make -j4
  => data/             # RAG Knowledge Base (Text files go here)
  => register_model.py # Utility for MLflow tracking
 
+### References
+https://www.datacamp.com/tutorial/llama-cpp-tutorial
+https://medium.com/data-science/a-complete-guide-to-write-your-own-transformers-29e23f371ddd
+https://medium.com/data-science/llama-cpp-writing-a-simple-c-inference-program-for-gguf-llm-models-12bc5f58505f
